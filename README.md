@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Atharv Kadam** 😄
+# 👋 Hey there! I'm **Atharv Kadam** 
 
 ### 🚀 Software Engineer | AI-ML Developer | Data & Cloud Analyst
 
