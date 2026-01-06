@@ -6,7 +6,6 @@
 👉 [atharv-kadam.gamma.site](https://atharv-kadam-b91lozu.gamma.site/)  
 
 📧 **Email:** atharvkadam1858@gmail.com  
-📱 **Contact:** +91 8805871396  
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/atharv-kadam-23b9b1255)  
 🐙 **GitHub:** [github.com/AtharvKadam1858](https://github.com/AtharvKadam1858)
 
