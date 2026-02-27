@@ -15,17 +15,6 @@ https://linkedin.com/in/atharv-kadam91
 📧 Email:
 atharvkadam1858@gmail.com
 
-🚀 Live Projects
-🛒 Market Basket Analysis App
-
-🔗 https://market-basket-analysis-atharv.streamlit.app
-
-✔ Upload your dataset
-✔ Association Rules
-✔ Confidence & Lift
-✔ Business Insights
-✔ Interactive Charts
-
 📊 About Me
 
 I am a Data Analyst and AI-ML Engineer specializing in:
