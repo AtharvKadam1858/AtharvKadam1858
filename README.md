@@ -1,163 +1,146 @@
-# 👋 Hey there! I'm **Atharv Kadam** 
+👋 Hi, I'm Atharv Kadam
 
-### 🚀 Software Engineer | AI-ML Developer | Data & Cloud Analyst
+🎯 Data Analyst | Python | SQL | Power BI | Machine Learning
+🚀 Turning data into actionable insights and business decisions.
 
-🌐 **Personal Portfolio:**  
-👉 [atharv-kadam.gamma.site](https://atharv-kadam-b91lozu.gamma.site/)  
+🌐 Portfolio:
+https://atharv-kadam.gamma.site
 
-📧 **Email:** atharvkadam1858@gmail.com  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/atharv-kadam-23b9b1255)  
-🐙 **GitHub:** [github.com/AtharvKadam1858](https://github.com/AtharvKadam1858)
+💻 GitHub:
+https://github.com/AtharvKadam1858
 
----
+🔗 LinkedIn:
+https://linkedin.com/in/atharv-kadam91
 
-## 🧠 Professional Summary
+📧 Email:
+atharvkadam1858@gmail.com
 
-I’m a passionate **Computer Science Engineer (AI & ML specialization)** with hands-on expertise in:
+🚀 Live Projects
+🛒 Market Basket Analysis App
 
-- 🤖 Machine Learning & AI  
-- 🌐 Full-Stack Web Development  
-- ☁ Cloud Computing  
-- 🔧 DevOps  
-- 🧪 Testing & QA  
-- 📊 Data Analytics  
+🔗 https://market-basket-analysis-atharv.streamlit.app
 
-💡 Built **7+ production-ready projects** ranging from predictive modeling to scalable web portals.  
-🎯 Strong foundation in **DSA, System Design, SDLC, and Agile methodologies**.
+✔ Upload your dataset
+✔ Association Rules
+✔ Confidence & Lift
+✔ Business Insights
+✔ Interactive Charts
 
----
+📊 About Me
 
-## 🛠 Technical Arsenal
+I am a Data Analyst and AI-ML Engineer specializing in:
 
-### 💻 Languages
-🐍 Python | ☕ Java | ⚙ C++ | 🔩 C | 🛢 SQL | 🧾 JavaScript | 🐚 Shell/Bash | 🪟 PowerShell
+✔ Data Analytics
+✔ Machine Learning
+✔ Business Intelligence
+✔ Dashboard Development
+✔ Predictive Modeling
 
-### 🌐 Web Development
-Flask 🌶 | Django 🎯 | Spring Boot 🚦 | REST APIs 🔌 | ReactJS ⚛ | Microservices 🧩 | Bootstrap 🎨
+I build end-to-end data projects from data cleaning to deployment.
 
-### 📚 ML & AI
-TensorFlow 🤖 | Keras 🧠 | PyTorch 🔥 | scikit-learn 📘  
-NLP 🗣 | Computer Vision 👁 | CNN/RNN 🧬 | MLOps 🚀 | Model Deployment 📦
+🛠 Tech Stack
+💻 Programming
 
-### ☁ Cloud
-AWS (EC2, S3, Lambda, RDS, CloudWatch) ☁  
-Azure 🪟 | GCP 🌍 | Serverless Architecture ⚡ | Cost Optimization 💰
+Python
+SQL
 
-### 🔧 DevOps
-Git/GitHub 🐙 | Docker 🐳 | Kubernetes ☸  
-Jenkins 🔁 | Terraform 🏗 | Ansible ⚙  
-Linux/Unix 🐧 | Nginx 🌐 | Apache 🚦 | CI/CD Pipelines 🚀
+📊 Data Analytics
 
-### 🗄 Databases
-MySQL 🛢 | PostgreSQL 🐘 | MongoDB 🍃 | SQL Server 💾  
-Query Optimization ⚡ | Indexing 📌 | Stored Procedures 🔧
+Pandas
+NumPy
+Data Cleaning
+EDA
 
-### 🧪 Testing & QA
-PyTest 🧾 | JUnit ☕ | Selenium 🤖  
-Postman API Testing 📮 | JIRA 🐞 | Bugzilla 🐛 | Automation 🧪
+📈 Visualization
 
-### 🧰 Tools
-VS Code 💻 | PyCharm 🧠 | Jupyter 📓  
-Maven 🧩 | Gradle ⚙ | Swagger 📘  
-Grafana 📊 | Prometheus 📈 | Grafana 🖥 | Confluence 🧾
+Power BI
+Tableau
+Excel
+Plotly
+Streamlit
 
----
+🤖 Machine Learning
 
-## 🚧 Flagship Projects
+Scikit-learn
+Regression Models
+Classification Models
+Apriori Algorithm
 
-### 🏥 Enterprise Healthcare Portal
-**Tech:** Flask, MySQL, REST APIs, CI/CD  
-- 🔐 Authentication & RBAC  
-- 👥 Serves 500+ users  
-- ⚡ 40% query optimization  
-- 🚀 Automated testing pipeline
+🗄 Databases
 
-### 💳 Credit Risk Assessment System
-**Tech:** Python, ML, SQL, Power BI  
-- 📁 50K+ data records  
-- 🎯 82% accuracy  
-- ❌ Reduced false positives by 25%
+MySQL
+PostgreSQL
+SQLite
 
-### ✈ Travel Recommendation Engine
-**Tech:** Python, NLP, Sentiment Analysis  
-- 📊 Analyzed 10K+ reviews  
-- 🔁 Built ETL pipeline  
-- 🎯 Improved recommendations by 35%
+🔥 Tools & Technologies
 
-### 🏥 Disease Prediction Platform
-**Tech:** Python, ML, Cloud  
-- 🧠 Feature selection  
-- 📦 Model deployment  
-- 🧬 Early diagnosis predictions
+Python • SQL • Power BI • Tableau • Excel • Pandas • NumPy • Streamlit • Plotly • Scikit-learn • MySQL • PostgreSQL • Git • GitHub
 
-### 🎤 Emotion Recognition System
-- MFCC-based audio analytics  
-- 🎯 78% accuracy on 5K+ samples
+📊 GitHub Stats
 
-### ✍ Handwritten Character Recognition
-- CNN-based classifier  
-- 🎯 92% accuracy
+📊 Most Used Languages
 
----
+📊 GitHub Streak
 
-## 📜 Certifications & Achievements
+🚀 Skills Icons
 
-- 📘 Published **Healthcare Application Review Paper – IJISRT (Oct 2023)**  
-- 🤖 AI-ML Internship  
-- 📡 Data Engineering Internship  
-- 🔧 Generative AI – Intel  
-- 🌐 HTML5/CSS3 – Infosys  
-- ⚙ Arduino & Microcontrollers  
-- 🎯 Active coder on HackerRank & CodeChef
+Python
+SQL
+Power BI
+Tableau
+Machine Learning
+Data Analysis
+Streamlit
+Excel
 
----
+🧠 Project Highlights
 
-## 🎓 Education
+✔ Market Basket Analysis System
+✔ Customer Churn Prediction
+✔ Sales Dashboard
+✔ House Rent Analysis
+✔ Healthcare Analytics
 
-🎓 **B.Tech CSE (AI-ML)**  
-Rajarambapu Institute of Technology, Islampur  
-📅 Sep 2024 – Jan 2027
+✔ 100K+ Rows Processed
+✔ ML Models Built
+✔ Interactive Dashboards
+✔ Business Insights Generated
 
-🎓 **Diploma in Computer Science**  
-Shri Vitthal Education & Research Institute, Pandharpur  
-📅 Jul 2021 – Jun 2024
+🎓 Education
 
----
+B.Tech Computer Science (AI & ML)
+2024 – 2027
 
-## 🌍 Personal Attributes
+Diploma Computer Science
+2021 – 2024
 
-- 🧩 Problem Solver  
-- 📊 Analytical Thinker  
-- 🤝 Team Collaborator  
-- 🧾 Technical Documentation  
-- 🔐 Security & Performance Optimization  
-- ⏱ Time Management & Adaptability  
+🏆 Certifications
 
-### 🗣 Languages
-English | Hindi | Marathi
+✔ Data Analytics
+✔ Machine Learning
+✔ Power BI
+✔ AI & ML Training
 
----
+👁 Profile Visitors
 
-## 🎨 Beyond Code
+⭐ Connect With Me
 
-🏸 Badminton | ♟ Carrom | 🧠 Exploring AI Tools | 💻 Automation | ☁ Cloud Architecture
+LinkedIn
+https://linkedin.com/in/atharv-kadam91
 
----
+Portfolio
+https://atharv-kadam.gamma.site
 
-# 📊 Live GitHub Insights
+GitHub
+https://github.com/AtharvKadam1858
 
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvKadam1858&show_icons=true)
+Email
+atharvkadam1858@gmail.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvKadam1858)
+🚀 Career Goal
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AtharvKadam1858)
+To become a Data Analyst building scalable data-driven solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AtharvKadam1858)
+⭐ If you like my work
 
----
-
-### 🤝 Open to Collaborate!
-
-⭐ Check out my repositories, projects, and feel free to contribute or connect through my portfolio!
-
----
+Give a ⭐ to the repositories and connect on LinkedIn.
